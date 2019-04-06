@@ -4,8 +4,10 @@ A public repo where I'll keep useful links into different subjects around the de
 
 # Categories
 
-[JavaScript](./javascript.md)
-[HTML](./html.md)
-[CSS](./css.md)
-[java](./java.md)
-[Cordova](./cordova.md)
+- [JavaScript](./javascript.md)
+- [HTML](./html.md)
+- [CSS](./css.md)
+- [Java](./java.md)
+- [Cordova](./cordova.md)
+- [Ionic](./ionic.md)
+- [MySQL](./mysql.md)
