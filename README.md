@@ -11,3 +11,4 @@ A public repo where I'll keep useful links into different subjects around the de
 - [Cordova](./cordova.md)
 - [Ionic](./ionic.md)
 - [MySQL](./mysql.md)
+- [Git](./git.md)
